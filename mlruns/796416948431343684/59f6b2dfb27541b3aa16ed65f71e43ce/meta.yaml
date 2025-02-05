@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Yossef/Desktop/Programming/mlflow/mlruns/796416948431343684/59f6b2dfb27541b3aa16ed65f71e43ce/artifacts
+end_time: 1738799174175
+entry_point_name: ''
+experiment_id: '796416948431343684'
+lifecycle_stage: active
+run_id: 59f6b2dfb27541b3aa16ed65f71e43ce
+run_name: luxuriant-ray-51
+run_uuid: 59f6b2dfb27541b3aa16ed65f71e43ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738799174114
+status: 3
+tags: []
+user_id: Yossef

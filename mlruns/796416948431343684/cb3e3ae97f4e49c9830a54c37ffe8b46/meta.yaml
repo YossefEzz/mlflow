@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Yossef/Desktop/Programming/mlflow/mlruns/796416948431343684/cb3e3ae97f4e49c9830a54c37ffe8b46/artifacts
+end_time: 1738799084735
+entry_point_name: ''
+experiment_id: '796416948431343684'
+lifecycle_stage: active
+run_id: cb3e3ae97f4e49c9830a54c37ffe8b46
+run_name: colorful-mule-908
+run_uuid: cb3e3ae97f4e49c9830a54c37ffe8b46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738799084660
+status: 3
+tags: []
+user_id: Yossef

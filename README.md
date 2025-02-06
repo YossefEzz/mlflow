@@ -1,6 +1,8 @@
-# MLflow Tutorial Project
+![image](https://github.com/user-attachments/assets/12624969-1962-4068-b286-a795b0c72395)# MLflow Tutorial Project
 
 A simple demonstration of MLflow for experiment tracking using the California Housing dataset.
+
+![image](https://github.com/user-attachments/assets/fa0bbe3a-7b6a-4101-9ce8-73a6355fa19a)
 
 ## Setup
 
